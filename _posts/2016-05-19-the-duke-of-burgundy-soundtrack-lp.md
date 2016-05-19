@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://mondotees.com/collections/music/products/the-duke-of-burgundy-soundtrack-lp-selects'
 title: The Duke Of Burgundy Soundtrack LP
-datePublished: '2016-05-19T04:38:54.963Z'
-dateModified: '2016-05-19T04:38:54.689Z'
+datePublished: '2016-05-19T04:41:48.244Z'
+dateModified: '2016-05-19T04:38:37.800Z'
 starred: false
 sourcePath: _posts/2016-05-19-the-duke-of-burgundy-soundtrack-lp.md
 inFeed: true
