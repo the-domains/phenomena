@@ -1,4 +1,3 @@
-layout_spectrum: 0.42916844552382827
 typography_spectrum: 0.7402481643948704
 color:
   brandStrength: 0.5438462193123996
@@ -11,4 +10,7 @@ color:
     - '#284907'
     - '#382513'
     - '#363942'
-name: 'Phenomena '
+layout_spectrum: 0.42916844552382827
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/40952c6a-407d-4fbe-b18b-685a71598ee9.pdf'
+name: CINE PHENOMENA
+title: Estranho e Misterioso desde 2014
