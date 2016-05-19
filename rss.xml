@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Phenomena ]]></title>
         <description><![CDATA[Phenomena ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/phenomena/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 04:08:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 May 2016 04:09:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/phenomena/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="http://eviltender.com/wp-content/uploads/2015/12/20151214_235619_8259_777552-768x768.jpeg"></article>]]></description>
+            <link>http://eviltender.com/wp-content/uploads/2015/12/20151214_235619_8259_777552-768x768.jpeg</link>
+            <guid isPermaLink="false">1110cb69-c6f6-4b24-ae3b-2357787f62ca</guid>
+            <pubDate>Thu, 19 May 2016 04:08:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Akira Project - Live Action Trailer (Official)]]></title>
             <description><![CDATA[<article><h1>The Akira Project - Live Action Trailer (Official)</h1><p>https://www.youtube.com/watch?v=t1GO-93Nt3c</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b586aec1eee17b01c19a4c2d21714fad56e8a5ea.jpg"></article>]]></description>
