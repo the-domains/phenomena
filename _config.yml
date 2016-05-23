@@ -1,16 +1,16 @@
-typography_spectrum: 0.7402481643948704
+typography_spectrum: 0.00632901955395937
 color:
-  brandStrength: 0.5438462193123996
-  lightness: 0.6118239869829267
-  saturation: 0.19943066383711994
-  rhythmicContrast: 0.6588929167483002
+  brandStrength: 0.16929970495402813
+  lightness: 0.41340046585537493
+  saturation: 0.48835063725709915
+  rhythmicContrast: 0.9251376173924655
   brandColors:
-    - '#D8CAA8'
-    - '#5C832F'
-    - '#284907'
-    - '#382513'
-    - '#363942'
-layout_spectrum: 0.42916844552382827
+    - '#B4AF91'
+    - '#787746'
+    - '#40411E'
+    - '#32331D'
+    - '#C03000'
+layout_spectrum: 0.9860746709164232
 logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/40952c6a-407d-4fbe-b18b-685a71598ee9.pdf'
 name: CINE PHENOMENA
 title: Estranho e Misterioso desde 2014
