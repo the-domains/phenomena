@@ -1,11 +1,11 @@
 ---
 description: 'Sempre tive uma relação muito emocional com minhas músicas favoritas, talvez de certa forma até terapêutica. Lembro de ficar vidrado nos discos de vinil de meu primo desde de pequeno. Ele era DJ numa época em que não era comum sua avó saber o que era isso (por volta de 1984) e eu um moleque que morava na roça e ficava encantado quando vinha para a metrópole e podia me perder entre a coleção de centenas de vinis importados de dance music e trilhas sonoras de filmes. Maníaco desde sempre por filmes de fantasia e ficção, consegui fazer meu primo me presentear com 2 discos de minhas películas favoritas na época, E.T. O Extraterrestre e Poltergeist, ambos de 1982. O segundo em particular não foi muito tocado por que era muito assustador, mas de E.T. me fazia viajar em uma versão própria do filme enquanto eu escutava a música de John Williams de olhos fechados. Se tornou uma certa prática pra mim então comprar os discos dos filmes que eu era apaixonado e reviver a obra usando apenas o sentido auditivo. O foda era que ainda não existia internet e eu tampouco tinha dinheiro pra comprar discos importados, aliás sequer sabia onde adquiri-los (anos 80 era assim), então os anos que passei pedindo pra minha mão procurar a trilha sonora de The Lost Boys (1987) sem sucesso da mesma em encontrar o disco, só serviu pra instigar meus desejos consumidores desses bens materiais que nutriam meu espírito.'
-dateModified: '2016-05-23T03:33:11.008Z'
-datePublished: '2016-05-23T03:33:11.095Z'
+dateModified: '2016-05-23T03:58:55.387Z'
+datePublished: '2016-05-23T03:58:56.062Z'
 title: O Poderes Ocultos das Trilhas Sonoras
 author: []
-starred: false
 sourcePath: _posts/2016-05-23-o-poderes-ocultos-das-trilhas-sonoras.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
